@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React-Leaflet Quickstart 
+`yarn install` to make sure you've got all required dependencies, then `yarn start`.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Currently working on geocoding capabilities with autocomplete search
 
 ## Available Scripts
 
