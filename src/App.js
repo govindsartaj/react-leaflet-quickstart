@@ -1,10 +1,10 @@
 import "./App.css";
-import Map from "./components/Map";
+import BigMap from "./components/BigMap";
 
 function App() {
   return (
     <div className="App">
-      <Map />
+      <BigMap />
     </div>
   );
 }
